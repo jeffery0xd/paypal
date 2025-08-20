@@ -1,0 +1,9 @@
+name = "mexico-ecommerce-site"
+compatibility_date = "2024-12-01"
+pages_build_output_dir = "dist"
+
+[env.production]
+name = "mexico-ecommerce-site"
+
+[env.preview]
+name = "mexico-ecommerce-site-preview"
